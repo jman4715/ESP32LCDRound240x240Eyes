@@ -1,0 +1,1 @@
+These are files from the Github project ESP32-uncanny-eyes-halloween-skull (along with the default_large.h file from that project, to work with the bigger eyes).  To use, update the config.h with the correct CS pin values.
